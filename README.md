@@ -6,6 +6,10 @@ This space serves as a curated showcase of my technical journey where I explore 
 
 Here you'll find clean documentation, structured workflows, and a touch of storytelling woven into the code. Whether you're here to collaborate, explore, or just peek into my process. I'm glad you stopped by😊.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://www.linkedin.com/in/aparna-parashar-231a31284)
+[![Resume](https://img.shields.io/badge/Resume-PDF-green)](https://drive.google.com/file/d/14SOrgoCS6lE-Bi7eWst2Obf8DWi2PbAQ/view?usp=drivesdk)
+
+
 <!--
 **aparnaparashar/aparnaparashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
