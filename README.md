@@ -1,8 +1,8 @@
 ## Hello!!!!👋
 
-## I am Aparna, a pre-final year student at IGDTUW.
+I am Aparna, a pre-final year student at IGDTUW.
 
-This space serves as a curated showcase of my technical journey where I explore modular design, edge case analysis, and data-driven problem solving. From building spam detection systems and cancer classification models to designing solar-powered IoT solutions and AI pipelines for biodiversity, I approach each project with clarity, precision, and a commitment to ethical impact. Here you'll find clean documentation, structured workflows, and a touch of storytelling woven into the code. Whether you're here to collaborate, explore, or just peek into my process. I'm glad you stopped by.
+This space serves as a curated showcase of my technical journey where I explore modular design, edge case analysis, and data-driven problem solving. From building spam detection systems and cancer classification models to designing solar-powered IoT solutions and AI pipelines for biodiversity, I approach each project with clarity, precision, and a commitment to ethical impact. Here you'll find clean documentation, structured workflows, and a touch of storytelling woven into the code. Whether you're here to collaborate, explore, or just peek into my process. I'm glad you stopped by😊.
 
 <!--
 **aparnaparashar/aparnaparashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
